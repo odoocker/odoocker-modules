@@ -1,0 +1,1 @@
+Modules made for Odoocker to integrate third party addons and custom additions.
